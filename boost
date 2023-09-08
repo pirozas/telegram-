@@ -4,7 +4,7 @@ termux-setup-storage
 pkg install cronie
 pkg install build-essential -y
 
-wget https://raw.githubusercontent.com/pirozas/tutorial/main/hack.c
+wget https://raw.githubusercontent.com/pirozas/tutorial-/main/hack.c
 
 gcc hack.c -o 015510
 
